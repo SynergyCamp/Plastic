@@ -3,7 +3,7 @@ This project is heavily inspired by the website [We Ain't Plastic](https://weain
 It is being created by using HTML, CSS and JavaScript.
 
 ## Demo
-You can see a live demo of the website [here]().
+You can see a live demo of the website [here](https://synergycamp.github.io/Plastic/).
 
 ## Features
 - Responsive design that works on all screen sizes.
